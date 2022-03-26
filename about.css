@@ -1,0 +1,80 @@
+video{
+  position: absolute;
+  
+}
+.bio{
+    position: relative;
+    padding: 50px;
+    
+ 
+}
+
+.bio h1{
+    border: 1px solid rgb(255, 255, 255);
+    width: 70px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.bio p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+
+/* skills */
+
+.skills{
+    position: relative;
+    padding: 50px;
+    color: white;
+
+}
+
+.skills h1{
+    border: 1px solid rgb(255, 255, 255);
+    width: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center
+}
+
+.skills ul{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.skills ul li{
+    margin-top: 10px;
+}
+
+/* works */
+.works{
+    position: relative;
+    padding: 50px;
+    color: white;
+
+}
+
+.works h1{
+    border: 1px solid rgb(255, 255, 255);
+    width: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center
+}
+
+.works ul{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.works ul li{
+    margin-top: 10px;
+}
+
+
+/* responsive */
+
+@media  screen and (max-width:420px){
+    
+}
